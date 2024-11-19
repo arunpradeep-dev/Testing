@@ -31,4 +31,6 @@ solution = np.linalg.solve(a, b)
 
 # Printing the solution
 print(solution)
+```
+
 ![images](https://github.com/user-attachments/assets/75243114-3b34-45c9-8443-7b2a8556c32b)
